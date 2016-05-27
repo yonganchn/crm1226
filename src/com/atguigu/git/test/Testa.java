@@ -4,5 +4,6 @@ public class Testa {
 public static void main(String[] args) {
 	System.out.println("wwwww");
 	System.out.println("ooooo");
+	System.out.println("hhhhhh");
 }
 }
